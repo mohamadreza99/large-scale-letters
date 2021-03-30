@@ -1,2 +1,4 @@
 # large-scale-letters
-a c++ program to print each string in large scale
+a c++ program to print every string in large scale
+
+
